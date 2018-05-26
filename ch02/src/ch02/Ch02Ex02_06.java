@@ -16,4 +16,5 @@ public class Ch02Ex02_06 {
 		System.out.printf("%4.1fyd = %5.1fcm\n",num1,num2);
 		System.out.printf("%4.1fin = %5.1fcm\n",num3,num4);
 }
+	
 }

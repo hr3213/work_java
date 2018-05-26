@@ -11,5 +11,5 @@ public class Ch02Ex01_03 {
 		System.out.printf("%d%n", height);
 		System.out.printf("%s%n", "My weight");
 		System.out.printf("%f%n", weight);
-	}
+}
 }

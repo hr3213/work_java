@@ -11,6 +11,7 @@ package ch02;
 			int num = Integer.parseInt(input);	// 입력받은 문자열을 숫자로 변환
 			
 			System.out.printf("%d",num);
-			
-}
+		
+
+		}
 	}

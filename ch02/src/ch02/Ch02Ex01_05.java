@@ -21,6 +21,7 @@ public static void main(String[] args)	{
 	System.out.printf("%15s", "Gwangju");
 	System.out.printf("%15s", "1,454,636");
 	System.out.printf("%15s%n","+29,774" );
+
 	
 }
 }

@@ -11,5 +11,4 @@ public class Ch02Ex02_05 {
 		float num2 = Float.parseFloat(input2);	// 입력받은 문자열을 숫자로
 		System.out.printf("%d * %f = %f", num,num2,num*num2);
 }
-
 }

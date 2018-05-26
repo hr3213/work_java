@@ -10,4 +10,6 @@ public class Ch02Ex02_03 {
 		System.out.printf("%d%n", num);
 		System.out.printf("%d%n", num1);
 }
+	
 }
+

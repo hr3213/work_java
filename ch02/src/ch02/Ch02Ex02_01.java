@@ -26,6 +26,4 @@ public class Ch02Ex02_01 {
 		System.out.printf("%s%n",(num+num1+num2) /3);
 	}
 
-
-
 }

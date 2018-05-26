@@ -18,5 +18,5 @@ public class Ch02Ex01_04 {
 		System.out.printf("%10d", 110);
 		System.out.printf("%10d%n", 97);
 		
-	}
+}
 }

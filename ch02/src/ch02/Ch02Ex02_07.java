@@ -11,4 +11,5 @@ public class Ch02Ex02_07 {
 		System.out.printf("Your height is %dcm",num);
 		
 }
+	
 }

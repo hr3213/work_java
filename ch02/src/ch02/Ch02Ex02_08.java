@@ -10,11 +10,15 @@ public class Ch02Ex02_08 {
 		String input2 = scanner.nextLine();
 		String input3 = scanner.nextLine();
 		
-		int num1 = Integer.parseInt(input1);	// 입력받은 문자열을 숫자로
-		int num2 = Integer.parseInt(input2);		
-		int num3 = Integer.parseInt(input3);
+		float num1 = Float.parseFloat(input1);	// 입력받은 문자열을 숫자로
+		float num2 = Float.parseFloat(input2);		
+		
+		System.out.printf("%.2f%n", num1);
+		System.out.printf("%.2f%n", num2);
+		System.out.printf("%s", input3);
 		
 		
 
 }
+	
 }

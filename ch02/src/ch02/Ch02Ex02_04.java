@@ -21,6 +21,5 @@ public class Ch02Ex02_04 {
 		System.out.printf("%d-%d=%d",num2, num3 , num2-num3 );
 		
 				
-		
 	}
 }
