@@ -7,7 +7,7 @@ public class OperatorEx16 {
 		System.out.println(shortPi);
 		
 		/*연산자 우선순위
-		 * 1. 갈호 먼저
+		 * 1. 괄호 먼저
 		 * 형 변환
 		 * 사칙연산 순
 		 */
