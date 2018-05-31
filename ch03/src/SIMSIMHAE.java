@@ -9,5 +9,8 @@ public class SIMSIMHAE {
 		
 	System.out.println(10^3);
 				
+	System.out.println("2018년 5월 31일");
+	System.out.println("오늘도 빅데이터는 어렵다 시발 좆같네");
+	
 	}
 }
