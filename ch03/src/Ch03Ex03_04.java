@@ -18,7 +18,7 @@ public class Ch03Ex03_04 {
 	int num3 = (int)c;
 	
 	int sum = (num1 + num2 + num3);
-	int avg = (int)(a + b + c) /3;
+	int avg = (int)((a + b + c) /3);
 	
 	System.out.printf("sum %d%n",sum);
 	System.out.printf("avg %d",avg);
